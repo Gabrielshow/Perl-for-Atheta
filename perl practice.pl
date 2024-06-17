@@ -65,7 +65,7 @@ print "@c";
 sub ask_buddy 
 {print "you are awesome!";}
 ask_buddy(); #calling the subroutine
-#inside the subroutine arguments are accessible usinghe special array @_.
+#inside the subroutine arguments are accessible using the special array @_.
 #hence the first argument to the function is in $_[0], the second is in $_[1], & so on
 sub add 
 {my $result = 0;
