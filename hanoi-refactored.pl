@@ -1,4 +1,4 @@
-# instead of teh previous implementations we can also use some kind of gui
+# instead of the previous implementations we can also use some kind of gui
 # function but instead make the hanoi function call it
 sub hanoi {
 	my ($n , $start, $end, $extra, $move_disk) = @_;
