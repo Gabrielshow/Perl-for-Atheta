@@ -10,3 +10,4 @@ my $boolean_x = !!$x; # forces boolean context
 
 my @squares = map { $_ * $_ } 1 .. 10;
 say for @squares; # note the postfix for
+# say "Our current discount is $discount!"
